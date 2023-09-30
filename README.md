@@ -1,5 +1,5 @@
 # guessnumber
-in this game which write wih c++ you are trying to guess number between 0 to 10 also you have balance which you can set default value by your self and with them you can bett on your win if you win you will get some extra point(bett * 10) if you lose
+in this game which write with c++ you are trying to guess number between 0 to 10 also you have balance which you can set default value by your self and with them you can bett on your win if you win you will get some extra point(bett * 10) if you lose
 you lose some point from your balance
 
 source code
